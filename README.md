@@ -23,3 +23,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
 
+##
+
+![GIF](https://github.com/amandaeloisa05/amandaeloisa05/blob/main/caminho-da-imagem/seu-gif-ou-png.gif)
+

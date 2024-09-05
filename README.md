@@ -25,5 +25,5 @@
 
 ##
 
-![GIF](https://github.com/amandaeloisa05/amandaeloisa05/blob/main/caminho-da-imagem/seu-gif-ou-png.gif)
+![GIF](https://github.com/amandaeloisa05/amandaeloisa05/blob/main/6f040b4a4db555dd98a603a81872ecdf.gif)
 

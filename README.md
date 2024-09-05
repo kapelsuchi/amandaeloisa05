@@ -1,8 +1,11 @@
-## Olá 👋
-
-- 🔭 Estudando ADS
-- 🌱 Estudando Git e Github
-- 😄 Pronouns: ela/dela
+<div style="border: 2px solid white; padding: 10px; border-radius: 5px;">
+  <h1>Olá 👋</h1>
+  <ul>
+    <li>🔭 Estudando ADS</li>
+    <li>🌱 Estudando Git e Github</li>
+    <li>😄 Pronouns: ela/dela</li>
+  </ul>
+</div>
 
 ##
 

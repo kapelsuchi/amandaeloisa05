@@ -25,5 +25,10 @@
 
 ##
 
-![GIF](https://github.com/amandaeloisa05/amandaeloisa05/blob/main/6f040b4a4db555dd98a603a81872ecdf.gif)
+
+<p align="center">
+  <img src="https://github.com/amandaeloisa05/amandaeloisa05/blob/main/6f040b4a4db555dd98a603a81872ecdf.gif" alt="GIF">
+</p>
+
+
 

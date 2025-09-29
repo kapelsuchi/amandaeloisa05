@@ -1,8 +1,8 @@
 <div style="border: 2px solid white; padding: 10px; border-radius: 5px;">
-  <h1>Olá 👋</h1>
+  <h1>Hello! </h1>
   <ul>
-    <li>🔭 Estudando ADS</li>
-    <li>🌱 Estudando Git e Github</li>
+    <li>🔭 Studying C</li>
+    <li>🌱 Aspiring dev</li>
     <li>😄 Pronouns: ela/dela</li>
   </ul>
 </div>

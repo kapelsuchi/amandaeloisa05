@@ -1,9 +1,8 @@
 <div style="border: 2px solid white; padding: 10px; border-radius: 5px;">
   <h1>Hello! </h1>
   <ul>
-    <li>🔭 Studying C</li>
-    <li>🌱 Aspiring dev</li>
-    <li>😄 Pronouns: ela/dela</li>
+    <li>🔭 Studying C & Python</li>
+    <li>🌱 Aspiring dev & storyteller</li>
   </ul>
 </div>
 
